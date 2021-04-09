@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617349883 source:c:\users\dkz\documents\cpp-projects\loginsystem2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
